@@ -1,0 +1,20 @@
+h1 {
+  color: red;
+  font-family:impact;
+  font-size:50px;
+}
+
+div {
+  margin:5px;
+}
+
+#about-me {
+  margin: 1px;
+  padding: 100px;
+  word-spacing: 1px;
+}
+
+h2 {
+  font-family: impact;
+  font-size:30px;
+}
